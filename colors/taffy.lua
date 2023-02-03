@@ -1,1 +1,1 @@
-require("taffy")
+require("taffy").load()
