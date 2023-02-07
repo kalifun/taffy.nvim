@@ -15,4 +15,8 @@ return {
 	begonia = "#ff6c7a",
 	glaucous = "#6275ba",
 	pale_cerulean = "#a3c0e6",
+	selection = "#44475A",
+	nontext = "#3B4048",
+	menu = "#21222C",
+	visual = "#3E4452",
 }
